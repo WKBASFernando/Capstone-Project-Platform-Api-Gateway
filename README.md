@@ -1,5 +1,10 @@
 # Api-Gateway
 
+## Student Information
+- **Student Name:** Angelo Fernando
+- **Student ID:** 241711026
+- **GCP Project ID:** eca-capstone-1788534495
+
 A reactive API Gateway built with Spring Cloud Gateway (WebFlux). It serves as the single entry point for all client requests, routing traffic to the appropriate microservices discovered via the Service-Registry.
 
 ## About
